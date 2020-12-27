@@ -10,8 +10,7 @@ Bugs:
 
 Special Instructions:
 You can look at the 2D int arrays of each level to figure out where each invisible brick and 
-spike is. Since this is a game designed to be a difficult, I didn't want you to suffer too much
-so I recorded videos of me playing through each level. You should try the game though to experience
+spike is. You should try the game though to experience
 true anger. I didn't have time to implement a levels menu so if you want to go directly to a 
 specific level, do the following:
 - Set menu to false
